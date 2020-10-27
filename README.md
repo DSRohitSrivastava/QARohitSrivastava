@@ -1,4 +1,4 @@
-![License](https://img.shields.io/github/license/QARohitSrivastava/QARohitSrivastava?style=flat)
+
 ![ViewCount](https://views.whatilearened.today/views/github/QARohitSrtivastava/QARohitSrtivastava.svg)
 
 
@@ -6,7 +6,7 @@
 
 ### Hi there , I'm Rohit Srivastava,
 
-A data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for open source, :cloud: Cloud computing, DevOps, :new: Innovation and Automation :robot: 
+A data engineer passionate about Data Science :bar_chart:. I like automating things, playing with data ,exploring scalability problems and improving efficiency and performance. 
 
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field. 
 
@@ -14,7 +14,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 **Languages:**  Python, SQL, Julia,Oracle, 
 
-**Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
+**Libraries & Tools:**  Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
 
 **Data Analysis:** Exploratory Data Analysis, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing
 

@@ -1,5 +1,5 @@
 
-[https://raw.githubusercontent.com/QARohitSrivastava/QARohitSrivastava/main/hello.gif]
+![Hello](https://raw.githubusercontent.com/QARohitSrivastava/QARohitSrivastava/main/hello.gif)
 
 ### Hi there , I'm Rohit Srivastava,
 

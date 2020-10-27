@@ -25,8 +25,9 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
    <i>If you are not doing it today</i>
    <i>then</i>
    <i>you are not going to do it tomorrow.</i>
-   
+   </p>
+   <p align="right">
    <br>
-   <i align="right">Rohit Srivastava</i>
+   <i>Rohit Srivastava.</i>
    <br>
 <br>	

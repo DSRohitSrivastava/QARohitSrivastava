@@ -18,7 +18,39 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 **Data Analysis:** Exploratory Data Analysis, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing
 
-    
+<br>
+
+<h3>Languages and Framework:</h3>
+
+<img align="center" alt="Android Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" />
+<img align="center" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
+<img align="center" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
+<img align="center" alt="GitHub" width="80px" src="https://keras.io/img/logo.png" />
+<img align="center" alt="GitHub" width="30px" src="https://numpy.org/images/logos/numpy.svg" />
+<img align="center" alt="GitHub" width="34px" src="https://jupyter.org/assets/main-logo.svg" />
+<img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="center" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</br>
+
+
+</div>
+
+
+   
+### 📫 Where to find me
+- [Facebook](https://www.facebook.com/qa.rohit.srivastava/) 😏
+- [Instagram](https://instagram.com/qa.rohit.srivastava) 😎
+- [LinkedIn](https://www.linkedin.com/in/rohit-srivastava-a2266157/) 👨💼
+
+
+![Rohit's Github Stats](https://github-readme-stats.vercel.app/api?username=QARohitSrivastava&show_icons=true&theme=radical)
+
+
+
+
+
+
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
 <hr>
 <p align="center">

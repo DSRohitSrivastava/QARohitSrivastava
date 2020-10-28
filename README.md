@@ -4,11 +4,14 @@
 
 ![Hello](https://raw.githubusercontent.com/QARohitSrivastava/QARohitSrivastava/main/hello.gif)
 
+
 ### Hi there , I'm Rohit Srivastava,
 
 A data engineer passionate about Data Science :bar_chart:. I like automating things, playing with data ,exploring scalability problems and improving efficiency and performance. 
 
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field. 
+
+
 
 ### Things I'm good at :fire:
 
@@ -30,7 +33,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 <img align="center" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="center" alt="GitHub" width="80px" src="https://keras.io/img/logo.png" />
 <img align="center" alt="PowerBI" width="30px" src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg">
-<img align="center" alt="Tableau" width="40px" src="https://en.wikipedia.org/wiki/Tableau_Software#/media/File:Tableau_logo.svg">
+<img align="center" alt="Tableau" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/1920px-Tableau_logo.svg.png">
 
 
 
@@ -49,7 +52,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 
 ![Rohit's Github Stats](https://github-readme-stats.vercel.app/api?username=QARohitSrivastava&show_icons=true&theme=radical)
-![Rohit's Most Langauages Used] (https://github-readme-stats.vercel.app/api/top-langs/?username=QARohitSrivastava&theme=radical)
+![Rohit's Most Langauages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=QARohitSrivastava&theme=radical)
 
 
 

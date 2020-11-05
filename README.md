@@ -45,7 +45,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 ### 📫 Where to find me
 - [Facebook](https://www.facebook.com/qa.rohit.srivastava/) 😏
 - [Instagram](https://instagram.com/qa.rohit.srivastava) 😎
-- [LinkedIn](https://www.linkedin.com/in/rohit-srivastava-a2266157/) 👨💼
+- [LinkedIn](https://www.linkedin.com/in/qa-rohit-srivastava/) 👨💼
 
 
 ![Rohit's Github Stats](https://github-readme-stats.vercel.app/api?username=QARohitSrivastava&show_icons=true&theme=radical)
